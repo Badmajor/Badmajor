@@ -1,6 +1,6 @@
 # Hi there, I'm Viktor!
 
-### Python developer specializing in Django and DRF actively seeking projects related to Django and DRF. Available to participate as a backend developer and DevOps.
+#### Python developer specializing in Django and DRF actively seeking projects related to Django and DRF. Available to participate as a backend developer and DevOps.
 
 
 ## My tech stack:
