@@ -5,16 +5,25 @@
 
 ## My tech stack:
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+
+<kbd>[Repository Filter Django & DRF](https://github.com/search?q=owner%3ABadmajor++topic%3Adjango-rest-framework&type=repositories)</kbd>
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
+<kbd>[Repository Filter Postgres](https://github.com/search?q=owner%3ABadmajor++topic%3Apostgresql&type=repositories)</kbd>
+<kbd>[Repository Filter Redis](https://github.com/search?q=owner%3ABadmajor++topic%3Aredis&type=repositories)</kbd>
+
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
+
+<kbd>[Repository Filter Docker](https://github.com/search?q=owner%3ABadmajor++topic%3ADocker&type=repositories)</kbd>
+<kbd>[Repository Filter Nginx](https://github.com/search?q=owner%3ABadmajor++topic%3ANginx&type=repositories)</kbd>
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
@@ -25,6 +34,8 @@
 
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
+
+<kbd>[Repository Filter Bootstrap](https://github.com/search?q=owner%3ABadmajor++topic%3Abootstrap&type=repositories)</kbd>
 
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
