@@ -32,6 +32,7 @@
 
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
+<kbd>[Repository Filter GitLab CI](https://github.com/search?q=owner%3ABadmajor++topic%3Acicd&type=repositories)</kbd>
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
 
