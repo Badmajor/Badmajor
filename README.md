@@ -8,10 +8,13 @@
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 <kbd>[Repository Filter Django & DRF](https://github.com/search?q=owner%3ABadmajor++topic%3Adjango-rest-framework&type=repositories)</kbd>
+<kbd>[Repository Filter FastAPI](https://github.com/search?q=+topic%3Afastapi+owner%3ARideTrip-tour+owner%3ABadmajor+&type=repositories)</kbd>
 <kbd>[Repository Filter Flask](https://github.com/search?q=owner%3ABadmajor++topic%3Aflask&type=repositories)</kbd>
+
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
